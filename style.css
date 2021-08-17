@@ -73,7 +73,11 @@ span {
     display: flex;
     flex-direction: column;
     margin: 20rem 0.3rem;
+<<<<<<< HEAD
     padding: 5px 1px;
+=======
+    padding: 9px 1px;
+>>>>>>> 1c4ed1717fd4d8b7e97a36bd61145f70d6ec9af3
     border: 0.2rem solid black;
     border-radius: 50px;
     text-align: center;
