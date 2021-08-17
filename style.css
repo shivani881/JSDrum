@@ -73,7 +73,7 @@ span {
     display: flex;
     flex-direction: column;
     margin: 20rem 0.3rem;
-    padding: 9px 6px;
+    padding: 9px 3px;
     border: 0.2rem solid black;
     border-radius: 50px;
     text-align: center;
